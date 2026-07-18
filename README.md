@@ -33,6 +33,7 @@ Tajemství nikdy do gitu — zkopíruj `*.example` na reálný soubor a vyplň l
 
 ## Dokumentace
 
+- [STATUS.html](STATUS.html) — **vizuální přehled stavu** (fáze, rozhodovací log, otevřené otázky) — otevři v prohlížeči
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) — **kompletní návrh** (tenancy, identita, konektory, GDPR/ToS, fázování)
 - [docs/BUILD.md](docs/BUILD.md) — jak postavit od nuly (výrobní)
 - [HANDOFF.md](HANDOFF.md) — deník stavu

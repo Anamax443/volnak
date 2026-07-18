@@ -1,7 +1,11 @@
-# BUILD — jak postavit volnak od nuly
+# BUILD — jak postavit Volnák od nuly
 
 > **Test hotovosti:** dostane se nový člověk (nebo já po výměně PC) JEN z tohoto dokumentu
 > k běžící aplikaci? Když ne, doplň, co chybělo.
+
+> **Stav F0 (design fáze):** zatím není co buildit — projekt je ve fázi návrhu.
+> Tento dokument se naplní v F1, až padne rozhodnutí o bázi (`saas-foundation` vs `rezervace-app`).
+> Kompletní návrh viz [ARCHITECTURE.md](ARCHITECTURE.md).
 
 ## 1. Závislosti
 - runtime / SDK (verze):
