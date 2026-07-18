@@ -12,6 +12,8 @@ Termíny se berou ze zdrojů, které *chtějí* být čtené (kapelní weby, Ban
 
 **F0 — návrh (design fáze).** Zatím žádný kód, jen architektonický dokument. Stavět se bude nad `saas-foundation`.
 
+📍 **Živý přehled stavu:** <https://anamax443.github.io/volnak/> (GitHub Pages)
+
 ## Stack (plánováno)
 
 - Cloudflare Workers + D1 (nad `Anamax443/saas-foundation`)

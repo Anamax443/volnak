@@ -6,6 +6,7 @@ Append-only. Nejnovější záznam nahoru. Slouží k pokračování z jiného p
 - Přidán **STATUS.html** (vizuální přehled stavu ve stylu faxx-dox: brána, fáze F0→F3, rozhodovací log, otevřené otázky).
 - Srovnána dokumentace: README odkazuje na STATUS, docs/BUILD.md označen jako design-fáze.
 - Repo přepnuto na **public** (`Anamax443/volnak`).
+- **GitHub Pages** zapnuté (main/root) → STATUS živě na <https://anamax443.github.io/volnak/> (index.html redirect → STATUS.html).
 - Vše pushnuto na `main`.
 
 ## 2026-07-18 — F0 návrh: repo + architektura
